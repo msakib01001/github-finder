@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Learn Python"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "3. GitHub Finder"
+	}
+}
